@@ -1,6 +1,10 @@
 # Excel-mysql-powerbi-data-analytics-project-combined
 🚦 Road Accident Analysis Dashboard
 
+data set link : https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true
+sql data set ;https://drive.google.com/drive/folders/1C_6sQngP9LXIOuq7wm9ft7P3ms3jAD7D?usp=sharing
+power bi data set https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm
+
 A complete end-to-end data analysis project focused on analyzing road accident data to identify key patterns, trends, and factors contributing to casualties. The project involves data cleaning, SQL querying, and interactive dashboard creation using Excel, Power BI, and Tableau.
 
 📌 Project Objective
